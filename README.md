@@ -30,6 +30,3 @@ Future Improvements
   
   Author
   Vatti Preethi Reddy
-Author
-
-Your Name
